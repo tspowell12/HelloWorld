@@ -6,7 +6,6 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Type any key to continue... Then press 'Enter'");
             Console.WriteLine("Hello World!");
             // Assigns the user input value to the variable 'Read'
